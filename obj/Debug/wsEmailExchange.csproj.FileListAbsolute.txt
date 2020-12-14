@@ -1,0 +1,17 @@
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\wsEmailExchange.exe.config
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\wsEmailExchange.exe
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\wsEmailExchange.pdb
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\thuantv\source\repos\wsEmailExchange\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thuantv\source\repos\wsEmailExchange\obj\Debug\wsEmailExchange.ProjectInstaller.resources
+C:\Users\thuantv\source\repos\wsEmailExchange\obj\Debug\wsEmailExchange.csproj.GenerateResource.cache
+C:\Users\thuantv\source\repos\wsEmailExchange\obj\Debug\wsEmailExchange.csproj.CoreCompileInputs.cache
+C:\Users\thuantv\source\repos\wsEmailExchange\obj\Debug\wsEmailExchange.csproj.CopyComplete
+C:\Users\thuantv\source\repos\wsEmailExchange\obj\Debug\wsEmailExchange.exe
+C:\Users\thuantv\source\repos\wsEmailExchange\obj\Debug\wsEmailExchange.pdb
